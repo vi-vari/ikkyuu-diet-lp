@@ -470,7 +470,7 @@ function HomePage({ onNavigate }: { onNavigate: (page: PageType) => void }) {
 
         {/* Footer */}
         <footer className="w-full px-4 py-8 border-t border-gray-200 text-center">
-          <p className="text-[#736357] text-sm">© 2026 美容整体サロン vivari. All rights reserved.</p>
+          <p className="text-[#736357] text-sm">© 2026 いっきゅう整体院. All rights reserved.</p>
         </footer>
       </div>
     </div>
