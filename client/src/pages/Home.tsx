@@ -92,7 +92,7 @@ function CTABlock({ onNavigate }: { onNavigate: (page: PageType) => void }) {
         ホットペッパーで予約する
       </a>
       <p className="text-[#3a3a3a] text-sm text-center">今すぐ予約したい方はこちらからどうぞ</p>
-      <p className="text-[#3a3a3a] text-sm text-center">ダイエットカウンセリングが初回限定1980円🎉</p>
+      <p className="text-[#3a3a3a] text-sm text-center">ダイエットカウンセリング＆美容整体が初回限定1980円🎉</p>
     </div>
   );
 }
